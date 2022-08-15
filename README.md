@@ -1,5 +1,10 @@
 # product-and-cart
 
+Vue.js Course for Beginners [2021 Tutorial]
+Final SPA made using Vue CLI
+Link to video: https://www.youtube.com/watch?v=FXpIoQ_rT_c&t=10833s&ab_channel=freeCodeCamp.org
+
+
 ## Project setup
 ```
 npm install
